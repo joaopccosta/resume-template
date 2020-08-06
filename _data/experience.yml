@@ -2,10 +2,9 @@
 - company: Codacy
   position: Site Reliability Engineer - Remote
   duration: Oct, 2019 &mdash; Present - Portugal
-  summary: 
-  Responsible for the enterprise self-hosted product charts, environments, their infrastructure, and release processes. Ensure company's cloud infrastructure is up and running. Ensure internal infrastructure such as development/support environments are stable.
-    - Kubernetes (k8s); 
-    - Amazon AWS; Digital Ocean; Helm; Terraform; Microk8s; CircleCI; Golang; Postgresql; Prometheus; Grafana; Elasticsearch; Kibana; Graylog; ReportPortal;
+  summary: Responsible for the enterprise self-hosted product charts, environments, their infrastructure, and release processes. Ensure company's cloud infrastructure is up and running. Ensure internal infrastructure such as development/support environments are stable.
+    * Kubernetes (k8s); 
+    * Amazon AWS; Digital Ocean; Helm; Terraform; Microk8s; CircleCI; Golang; Postgresql; Prometheus; Grafana; Elasticsearch; Kibana; Graylog; ReportPortal;
 
 - company: Product Madness
   position: Lead Client Devops Engineer
