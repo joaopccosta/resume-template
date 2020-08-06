@@ -12,7 +12,7 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "João Costa"
 resume_title:                   "Site Reliability Engineer"
-resume_locations:               "Current: Lisbon, Portugal 🇵🇹 Past: London, UK 🇬🇧 Toronto, CA 🇨🇦️ , Antibes, FR 🇫🇷️"
+resume_locations:               "Lisbon, PT 🇵🇹 - Past: London, UK 🇬🇧 Toronto, CA 🇨🇦️ , Antibes, FR 🇫🇷️"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "joaopccosta@gmail.com"
