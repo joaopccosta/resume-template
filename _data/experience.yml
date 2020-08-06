@@ -1,34 +1,35 @@
 # Jobs
 #<ul class="resume-item-list"><li></li></ul>
+#<li></li>
 - company: Codacy
   position: Site Reliability Engineer - Remote
   duration: Oct, 2019 &mdash; Present - Portugal
-  summary: <ul class="resume-item-list"><li>Responsible for the enterprise self-hosted product charts, environments, their infrastructure, and release processes.</li><li>Optimization and cost reduction of the company's AWS EC2 and EKS resources by ~65%.</li><li>Ensure company's cloud infrastructure is up and running.</li><li>Ensure internal infrastructure such as development/support environments are stable.</li></ul>Kubernetes (k8s); Amazon AWS; Digital Ocean; Helm; Terraform; Microk8s; CircleCI; Golang; Postgresql; Prometheus; Grafana; Elasticsearch; Kibana; Graylog; ReportPortal;
+  summary: <ul class="resume-item-list"><li>Responsible for the enterprise self-hosted product charts, environments, their infrastructure, and release processes.</li><li>Optimization and cost reduction of the company's AWS EC2 and EKS resources by ~65%.</li><li>Ensure company's cloud infrastructure is up and running.</li><li>Ensure internal infrastructure such as development/support environments are stable.</li><li>Kubernetes (k8s); Amazon AWS; Digital Ocean; Helm; Terraform; Microk8s; CircleCI; Golang; Postgresql; Prometheus; Grafana; Thanos; Loki; Elasticsearch; Kibana; Graylog; ReportPortal;</li></ul>
 
 - company: Product Madness
   position: Lead Client Devops Engineer
   duration: 2018 &mdash; 2019 - United Kingdom
-  summary: <ul class="resume-item-list"><li>Lead engineer of a team of three other members.</li><li>Migrated from a in-house single build machine per project to a mixed pool (on-prem and cloud) of distributed Unity3D Jenkins builders</li><li>Accountable for the Continuous Integration (CI)/Continuous Delivery (CD) process and infrastructure across the company.</li><li>Monitoring of the release process health with custom tools and dashboards</li><li>Responsible for the in-house toolchain that builds and deploys the company's products onto Android and iOS stores.</li></ul>Amazon AWS; Terraform; Ansible; Gradle/Groovy; Bash/Powershell; Jenkins; Unity3d; VMWare ESXI;
+  summary: <ul class="resume-item-list"><li>Lead engineer of a team of three other members.</li><li>Migrated from a in-house single build machine per project to a mixed pool (on-prem and cloud) of distributed Unity3D Jenkins builders</li><li>Accountable for the Continuous Integration (CI)/Continuous Delivery (CD) process and infrastructure across the company.</li><li>Monitoring of the release process health with custom tools and dashboards</li><li>Responsible for the in-house toolchain that builds and deploys the company's products onto Android and iOS stores.</li><li>Amazon AWS; Terraform; Ansible; Gradle/Groovy; Bash/Powershell; Jenkins; Unity3d; VMWare ESXI;</li></ul>
 
 - company: Product Madness
   position: Core Technology Engineer
   duration: 2017 &mdash; 2018 - United Kingdom
-  summary: <ul class="resume-item-list"><li>Middleware and 3rd Party plugin framework developer.</li><li>Implementation of the early proof of concept of the internal Gradle toolchain for building and shipping applications.</li><li>Extraction of all application development core dependencies into isolated, versioned dependencies managed by Artifactory.</li></ul>C#; Unity 3D; Gradle; Java; NUnit; Moq; Native Android; Git;
+  summary: <ul class="resume-item-list"><li>Middleware and 3rd Party plugin framework developer.</li><li>Implementation of the early proof of concept of the internal Gradle toolchain for building and shipping applications.</li><li>Extraction of all application development core dependencies into isolated, versioned dependencies managed by Artifactory.</li><li>C#; Unity 3D; Gradle; Java; NUnit; Moq; Native Android; Git;</li></ul>
 
 - company: GSN Games (former Plumbee Ltd.)
   position: Unity Mobile Game Client Engineer
   duration: 2016 &mdash; 2017 - United Kingdom
-  summary: <ul class="resume-item-list"><li><Front end developer for Unity 3D mobile games./li></ul>C#; Unity 3D; Maven; Zenject; NUnit; NSubstitute; Amazon AWS; Native Android; Git;
+  summary: <ul class="resume-item-list"><li><Front end developer for Unity 3D mobile games.</li><li>C#; Unity 3D; Maven; Zenject; NUnit; NSubstitute; Amazon AWS; Native Android; Git;</li></ul>
 
 - company: Plumbee Ltd.
   position: ActionScript Game Client Engineer
   duration: 2014 &mdash; 2016 - United Kingdom
-  summary: <ul class="resume-item-list"><li><Front end developer for ActionScript web canvas and mobile games./li></ul>ActionScript 3; Maven; RobotLegs; Mockito; Amazon AWS; Native Android; Git;
+  summary: <ul class="resume-item-list"><li><Front end developer for ActionScript web canvas and mobile games.</li><li>ActionScript 3; Maven; RobotLegs; Mockito; Amazon AWS; Native Android; Git;</li></ul>
 
 - company: UOIT - University of Ontario Institute of Technology
   position: User Experience - Games User Research (UX/GUR) 
   duration: 2013 &mdash; 2014 - Canada
-  summary: <ul class="resume-item-list"><li>Videogame User Experience research using psychophysiological measures.</li></ul>R; Electromyography (EMG); Galvanic Skin Response (GSR);
+  summary: <ul class="resume-item-list"><li>Videogame User Experience research using psychophysiological measures.</li><li>R; Electromyography (EMG); Galvanic Skin Response (GSR);</li></ul>
 
 - company: Amadeus I.T. Group
   position: C++ Developer
