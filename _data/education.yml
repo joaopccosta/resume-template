@@ -9,10 +9,10 @@
 - degree: Master of Science, Computer Science
   uni: Faculty of Science - University of Lisbon, Portugal
   year: 2009 &mdash; 2011
-  awards:
-    - award: Thesis in Videogames engines with focus on physics simulations and artificial intelligence.
+#   awards:
+#     - award: Thesis in Videogames engines with focus on physics simulations and artificial intelligence.
 #   award: Most likely to succeed
-#   summary: You can choose to have either a single or multiple awards
+  summary: Thesis in Videogames engines with focus on physics simulations and artificial intelligence.
 
 - degree: Bachelor of Science, Computer Science
   uni: Faculty of Science - University of Lisbon, Portugal
