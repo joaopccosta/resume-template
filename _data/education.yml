@@ -1,13 +1,19 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Ph.D. Candidate, Computer Science
+  uni: UOIT - University of Ontario Institute of Technology - Canada
+  year: 2013 &mdash; 2014
+#   awards:
+#     - award: Summa Cumme Laude graduate
+  summary: Ph.D. Candidate and teaching assistant for the Game Development course.
+  
+- degree: Master of Science, Computer Science
+  uni: Faculty of Science - University of Lisbon, Portugal
+  year: 2009 &mdash; 2011
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Thesis in Videogames engines with focus on physics simulations and artificial intelligence.
+#   award: Most likely to succeed
+#   summary: You can choose to have either a single or multiple awards
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Science, Computer Science
+  uni: Faculty of Science - University of Lisbon, Portugal
+  year: 2005 &mdash; 2009
