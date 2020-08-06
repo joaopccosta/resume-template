@@ -1,4 +1,5 @@
 # Jobs
+#<ul class="resume-item-list"><li></li></ul>
 - company: Codacy
   position: Site Reliability Engineer - Remote
   duration: Oct, 2019 &mdash; Present - Portugal
@@ -7,7 +8,7 @@
 - company: Product Madness
   position: Lead Client Devops Engineer
   duration: 2018 &mdash; 2019 - United Kingdom
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>Lead engineer of a team of three other members.</li><li>Accountable for the Continuous Integration (CI)/Continuous Delivery (CD) process and infrastructure across the company.</li><li>Monitoring of the release process health with custom tools and dashboards</li><li>Responsible for the in-house toolchain that builds and deploys the company's products onto Android and iOS stores.</li></ul>Amazon AWS; Terraform; Ansible; Gradle/Groovy; Bash/Powershell; Jenkins; Unity3d; VMWare ESXI;
 
 - company: Product Madness
   position: Core Technology Engineer
