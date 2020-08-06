@@ -13,27 +13,27 @@
 - company: Product Madness
   position: Core Technology Engineer
   duration: 2017 &mdash; 2018 - United Kingdom
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>Middleware and 3rd Party plugin framework developer.</li><li>Implementation of the early proof of concept of the internal Gradle toolchain for building and shipping applications.</li><li>Extraction of all application development core dependencies into isolated, versioned dependencies managed by Artifactory.</li></ul>C#; Unity 3D; Gradle; Java; NUnit; Moq; Native Android; Git;
 
-- company: GSN
+- company: GSN Games (former Plumbee Ltd.)
   position: Unity Mobile Game Client Engineer
   duration: 2016 &mdash; 2017 - United Kingdom
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li><Front-end developer for Unity 3D mobile games./li></ul>C#; Unity 3D; Maven; Zenject; NUnit; NSubstitute; Amazon AWS; Native Android; Git;
 
 - company: Plumbee Ltd.
   position: ActionScript Game Client Engineer
   duration: 2014 &mdash; 2016 - United Kingdom
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li><Front-end developer for ActionScript web canvas and mobile games./li></ul>ActionScript 3; Maven; RobotLegs; Mockito; Amazon AWS; Native Android; Git;
 
 - company: UOIT - University of Ontario Institute of Technology
   position: User Experience - Games User Research (UX/GUR) 
   duration: 2013 &mdash; 2014 - Canada
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>Videogame User Experience research using psychophysiological measures.</li></ul>R; Electromyography (EMG); Galvanic Skin Response (GSR);
 
 - company: Amadeus I.T. Group
   position: C++ Developer
   duration: 2012 &mdash; 2013 - France
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: C++; CMake; Mercurial;
 
 - company: Faculty of Science - University of Lisbon
   position: Academic Researcher
