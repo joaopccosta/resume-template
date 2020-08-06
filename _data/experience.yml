@@ -8,7 +8,7 @@
 - company: Product Madness
   position: Lead Client Devops Engineer
   duration: 2018 &mdash; 2019 - United Kingdom
-  summary: <ul class="resume-item-list"><li>Lead engineer of a team of three other members.</li><li>Accountable for the Continuous Integration (CI)/Continuous Delivery (CD) process and infrastructure across the company.</li><li>Monitoring of the release process health with custom tools and dashboards</li><li>Responsible for the in-house toolchain that builds and deploys the company's products onto Android and iOS stores.</li></ul>Amazon AWS; Terraform; Ansible; Gradle/Groovy; Bash/Powershell; Jenkins; Unity3d; VMWare ESXI;
+  summary: <ul class="resume-item-list"><li>Lead engineer of a team of three other members.</li><li>Migrated from a in-house single build machine per project to a mixed pool (on-prem and cloud) of distributed Unity3D Jenkins builders</li><li>Accountable for the Continuous Integration (CI)/Continuous Delivery (CD) process and infrastructure across the company.</li><li>Monitoring of the release process health with custom tools and dashboards</li><li>Responsible for the in-house toolchain that builds and deploys the company's products onto Android and iOS stores.</li></ul>Amazon AWS; Terraform; Ansible; Gradle/Groovy; Bash/Powershell; Jenkins; Unity3d; VMWare ESXI;
 
 - company: Product Madness
   position: Core Technology Engineer
