@@ -19,7 +19,7 @@
 - company: GSN Games (former Plumbee Ltd.)
   position: Unity Mobile Game Client Engineer
   duration: 2016 &mdash; 2017 - United Kingdom
-  summary: <ul class="resume-item-list"><li><Front end developer for Unity 3D mobile games.</li><li></li>C&#35; Unity 3D; Maven; Zenject; NUnit; NSubstitute; Amazon AWS; Native Android; Git;</ul>
+  summary: <ul class="resume-item-list"><li>Front end developer for Unity 3D mobile games for Android and iOS.</li><li>Created and maintained the Unity 3D internal dependency library and system.</li></ul>
   #summary: <ul class="resume-item-list"><li><Front end developer for Unity 3D mobile games.</li><li>C#; Unity 3D; Maven; Zenject; NUnit; NSubstitute; Amazon AWS; Native Android; Git;</li></ul>
 
 - company: Plumbee Ltd.
