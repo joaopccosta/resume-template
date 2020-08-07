@@ -39,4 +39,4 @@
 - company: Faculty of Science - University of Lisbon
   position: Academic Researcher
   duration: 2011 &mdash; 2012 -  Portugal
-#   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: <ul class="resume-item-list"><li>C++; CMake; Game Engines; Physics Engines; Artificial Intelligence; Computer Vision;</li></ul>
