@@ -20,13 +20,11 @@
   position: Unity Mobile Game Client Engineer
   duration: 2016 &mdash; 2017 - United Kingdom
   summary: <ul class="resume-item-list"><li>Front end developer for Unity 3D mobile games for Android and iOS.</li><li>Created and maintained the Unity 3D internal dependency library and system.</li><li>C&#35;; Unity 3D; Maven; Zenject; NUnit; NSubstitute; Amazon AWS; Native Android; Git;</li></ul>
-  #summary: <ul class="resume-item-list"><li><Front end developer for Unity 3D mobile games.</li><li>C&#35;; Unity 3D; Maven; Zenject; NUnit; NSubstitute; Amazon AWS; Native Android; Git;</li></ul>
 
 - company: Plumbee Ltd.
   position: ActionScript Game Client Engineer
   duration: 2014 &mdash; 2016 - United Kingdom
-  summary: <ul class="resume-item-list"><li>Videogame User Experience research using psychophysiological measures.</li><li>R; Electromyography (EMG); Galvanic Skin Response (GSR);</li></ul>
-  #summary: <ul class="resume-item-list"><li><Front end developer for ActionScript web canvas and mobile games.</li><li>ActionScript 3; Maven; RobotLegs; Mockito; Amazon AWS; Native Android; Git;</li></ul>
+  summary: <ul class="resume-item-list"><li>Front end developer for ActionScript 3 web canvas and mobile games.</li><li>Integrate various third-party SDKs and libraries into the internal application middleware.</li><li>ActionScript 3; Maven; RobotLegs; Mockito; Amazon AWS; Native Android; Git;</li></ul>
 
 - company: UOIT - University of Ontario Institute of Technology
   position: User Experience - Games User Research (UX/GUR) 
