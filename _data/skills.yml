@@ -1,13 +1,9 @@
 # Skills
-# Organizational leadership
-- skill: Programming related skills
-  description: Java, Groovy, Shellscript, Shellscript, Python, Golang, C/C++, C#, Unity 3D, Action Script 3, R, JavaScript, SQL, Spock (Groovy), NSubstitute, NUnit, Robotlegs, Mockito, Appium, Selenium, TestNG, Git, Mercurial.
+- skill: Programming skills
+  description: Java, Groovy, Shellscript, Python, Golang, C/C++, C#, Unity 3D, Action Script 3, R, Postgresql, Spock (Groovy), NSubstitute, NUnit, Robotlegs, Mockito, Appium, Selenium, TestNG.
 
+- skill: Devops related technologies
+  description: Amazon AWS, Terraform, Kubernetes, Docker, Microk8s, Vagrant, VMWare, Grafana, Prometheus, Elasticsearch, New Relic, DataDog, Periscope, Loggly, Splunk, Helm (kubernetes), CircleCI, Cloudbees Jenkins, Atlassian Bamboo, Gradle, Maven, sbt, Ant, CMake, Nexus, Artifactory, Git, Mercurial.
 
-# Communications strategy
 - skill: Engineering skills
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+  description: Clean Code, Design Patterns, Test Driven Development (TDD), SOLID Principles
