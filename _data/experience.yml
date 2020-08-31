@@ -4,7 +4,9 @@
 - company: Codacy
   position: Site Reliability Engineer - Remote
   duration: Oct, 2019 &mdash; Present - Portugal
-  summary: <ul class="resume-item-list"><li>Key stakeholder on the enterprise self-hosted product Helm chart, development environments and their infrastructure.</li><li>Ownership of the release processes of the self-hosted product.</li><li>Optimization and cost reduction of the company's cloud development environments by ~65%.</li><li>Monitor different components on the self-hosted environments through custom dashboards.</li><li>Automate component alarms with Slack notifications on the self-hosted environments.</li><li>Ensure company's cloud infrastructure is up and running.</li><li>Ensure internal infrastructure such as development/support environments are stable.</li><li>Kubernetes (k8s); Amazon AWS; Digital Ocean; Helm; Terraform; Microk8s; CircleCI; Golang; Postgresql; Prometheus; Grafana; Thanos; Loki; Elasticsearch; Kibana; Graylog; ReportPortal;</li></ul>
+  summary: <ul class="resume-item-list"><li>Key stakeholder on the enterprise self-hosted product chart (Helm, Kubernetes), development environments and their infrastructure.</li><li>Ownership of the release processes of the self-hosted product (CircleCI, Helm).</li><li>Optimization and cost reduction of the company's cloud development environments by \url{~}65\% through the use of spot instances (AWS EC2, AWS EKS).</li><li>Monitor different components on the self-hosted environments through custom dashboards (Prometheus, Grafana, AWS).</li><li>Automate component alarms with Slack notifications on the self-hosted environments (Helm, Prometheus, Kubernetes).</li><li>Ensure that the company's general infrastructure is up and running (Amazon AWS, DigitalOcean).<li>Kubernetes (k8s); Amazon AWS; Digital Ocean; Helm; Terraform; Microk8s; CircleCI; Golang; Postgresql; Prometheus; Grafana; Thanos; Loki; Elasticsearch; Kibana; Graylog; ReportPortal;</li></ul>
+
+
 
 - company: Product Madness
   position: Lead Client Devops Engineer
