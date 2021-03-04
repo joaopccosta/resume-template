@@ -55,7 +55,7 @@ resume_social_links:
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
-#   resume_certifications_url:     "https://www.youracclaim.com/badges/1342bcde-4e06-487d-a2f1-57cee640ee4e/linked_in"
+  resume_certifications_url:     "https://www.youracclaim.com/badges/1342bcde-4e06-487d-a2f1-57cee640ee4e/linked_in"
 resume_print_social_links:      true
 
 # Design settings
