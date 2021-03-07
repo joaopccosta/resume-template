@@ -18,7 +18,7 @@ resume_locations:               "Lisbon, PT 🇵🇹 - Past: London, UK 🇬🇧
 resume_contact_email:           "joaopccosta@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "AWS Certified Solutions Architect - Associate 2019"
+resume_contact_telephone:       ""
 resume_contact_address:         ""
 
 resume_header_contact_info:     "joaopccosta@gmail.com"
