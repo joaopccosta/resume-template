@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "João Costa"
-resume_title:                   "Site Reliability Engineer"
+resume_title:                   "Site Reliability Engineer<br>AWS Certified Solutions Architect - Associate 2019"
 resume_locations:               "Lisbon, PT 🇵🇹 - Past: London, UK 🇬🇧 Toronto, CA 🇨🇦️ , Antibes, FR 🇫🇷️"
 
 # used for the contact button in _layouts/resume.html
@@ -24,9 +24,7 @@ resume_contact_address:         "-"
 resume_header_contact_info:     "joaopccosta@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>My name sounds like light sabers or racing cars. I like to make, break, and automate infrastructure and software for a living. Proud father 👨‍👩‍👦, 2nd Dan JKA Shotokan karate (押忍!) 🥋, and heavy metal guitarist 🤘.
-
-AWS Certified Solutions Architect - Associate 2019</p>"
+resume_header_intro: "<p>My name sounds like light sabers or racing cars. I like to make, break, and automate infrastructure and software for a living. Proud father 👨‍👩‍👦, 2nd Dan JKA Shotokan karate (押忍!) 🥋, and heavy metal guitarist 🤘.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
